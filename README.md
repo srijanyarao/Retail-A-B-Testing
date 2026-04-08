@@ -66,7 +66,9 @@ Treatment stores attracted significantly more visitors during the trial.
 Based on the combined results:
 
 ✔ Roll out the strategy to more stores with similar profiles.
+
 ✔ Continue monitoring weekly KPIs to ensure the uplift is sustained.
+
 ✔ Run follow‑up tests to isolate which elements (layout, promotions, product mix) drove the strongest effects.
 
 This project demonstrates how data analysts use A/B testing, DiD, and customer behavior metrics to drive business decisions.
